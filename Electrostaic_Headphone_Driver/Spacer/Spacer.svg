@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64mm"
+   height="84mm"
+   viewBox="0 0 64 84"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Spacer.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="-185.96908"
+     inkscape:cy="168.99852"
+     inkscape:window-width="1920"
+     inkscape:window-height="971"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path846"
+       style="fill:#ff0000;stroke-width:0.0377953;stroke-linecap:round;stroke-linejoin:bevel"
+       d="M 120.94531 0 A 120.94488 158.74016 0 0 0 0 158.74023 A 120.94488 158.74016 0 0 0 120.94531 317.48047 A 120.94488 158.74016 0 0 0 241.89062 158.74023 A 120.94488 158.74016 0 0 0 120.94531 0 z M 120.94531 18.898438 A 102.04724 139.84252 0 0 1 222.99219 158.74023 A 102.04724 139.84252 0 0 1 120.94531 298.58203 A 102.04724 139.84252 0 0 1 18.898438 158.74023 A 102.04724 139.84252 0 0 1 120.94531 18.898438 z "
+       transform="scale(0.26458333)" />
+    <path
+       id="path844"
+       style="fill:#00ffff;stroke-width:0.0377953;stroke-linecap:round;stroke-linejoin:bevel"
+       d="M 120.94531 0 A 120.94488 158.74016 0 0 0 0 158.74023 A 120.94488 158.74016 0 0 0 120.94531 317.48047 A 120.94488 158.74016 0 0 0 241.89062 158.74023 A 120.94488 158.74016 0 0 0 120.94531 0 z M 120.94531 7.5585938 A 113.38583 151.1811 0 0 1 234.33008 158.74023 A 113.38583 151.1811 0 0 1 120.94531 309.92188 A 113.38583 151.1811 0 0 1 7.5585938 158.74023 A 113.38583 151.1811 0 0 1 120.94531 7.5585938 z "
+       transform="scale(0.26458333)" />
+  </g>
+</svg>
